@@ -1,5 +1,4 @@
 ### This repository demonstrates:
-``
 
 * How to build a custom Linux kernel.
 
@@ -8,7 +7,7 @@
 * How to use WiringPi to interact with peripherals from user space.
 
 * How to integrate user space applications with kernel modules:
-* The kernel module handles low-level control (e.g., turning an LED on/off), while the user space program automates behaviors such as LED blinking.``
+* The kernel module handles low-level control (e.g., turning an LED on/off), while the user space program automates behaviors such as LED blinking.
 
 ### Reference:
 - 📘 [Official Raspberry Pi Documentation – Building Linux Kernel](https://www.raspberrypi.com/documentation/computers/linux_kernel.html#building)  
